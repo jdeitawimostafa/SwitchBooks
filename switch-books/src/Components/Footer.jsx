@@ -9,7 +9,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="row">
-          <div className="footer-col">
+          <div className="footer-col" required>
             <h4>SwitchBooks </h4>
             <ul>
               <li>
